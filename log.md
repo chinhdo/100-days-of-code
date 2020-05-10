@@ -9,7 +9,7 @@
 
 **Thoughts:** 
 
-Working on a limited-scope project for my first day: a Twitter bot that will search for tweets with the hashtag #100DaysOfCode and like a few of them. I want to use this project to re-learn how to set up a new Node.js/TypeScript project with basic features like tests (using Jest), debugging support in VSCODE, etc.
+Working on a limited-scope project for my first day so I can hopefully "release it to Production" the same day: a Twitter bot that will search for tweets with the hashtag #100DaysOfCode and like a few of them. I want to use this project to re-learn how to set up a new Node.js/TypeScript project with basic features like tests (using Jest), debugging support in VSCODE, etc.
 
 This bot will hopefully help encourage other developers on the #100DaysOfCode journey.
 
