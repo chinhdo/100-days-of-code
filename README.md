@@ -1,5 +1,13 @@
 # I've joined the #100DaysOfCode Challenge
 
+I've been in software development for many years but there's aways things to learn/re-learn in programming. Check out my progress log [here](./log.md). I'll also be sharing my #100DaysOfCode journey via [twitter](https://twitter.com/chinhdo) - follow me there if you are interested.
+
+My topics for learning/refreshing:
+* ReactJs
+* Node.js w/ TypeScript
+* Machine Learning/TensorFlow
+* Graphics & animation
+
 ## Contents
 
 * [Rules](rules.md)
