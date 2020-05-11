@@ -1,15 +1,16 @@
-# 100 Days Of Code - [Chinh](https://github.com/chinhdo) Log
+# 100 Days Of Code - [Chinh's Log](https://github.com/chinhdo)
 
-### Day 0: May 10, 2020
+### Day 1: May 10, 2020
 
 **Today's Progress**
 
 * Created from cratch basic Node.js/TypeScript project with Jest, VSCODE debug support.
-* Confirmed build, tests, and debug in VSCODE work.
-* Version 1.0 of the app can now search for tweets, and list out 10 recommended tweets for me to review and like. I decided for the bot to recommend tweets instead of liking the tweets itself because:
+* Spent countless minutes figuring out some things that should be a lot simpler than they are. Grrr.
+* Version 1.0 of the app can now search for tweets, and produce an HTML report with tweets for me to review and like.
+* I decided for the bot to recommend tweets instead of liking the tweets itself because:
   * I want to weed out the spam posts.
-  * I want to reply to some of the posts and give encouragement to others when appropriate. 
-  * It's against Twitter TOS to automatically like tweets :)
+  * I want to personally view and if appropriate, reply to some of the posts to give encouragement to others also going through the #100DaysOfCode journey.
+  * It's also against Twitter TOS to have your bot automatically like tweets - so there's that :)
 
 **Thoughts:**
 
