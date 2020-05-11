@@ -6,15 +6,19 @@
 
 * Created from cratch basic Node.js/TypeScript project with Jest, VSCODE debug support.
 * Confirmed build, tests, and debug in VSCODE work.
+* Version 1.0 of the app can now search for tweets, and list out 10 recommended tweets for me to review and like. I decided for the bot to recommend tweets instead of liking the tweets itself because:
+  * I want to weed out the spam posts.
+  * I want to reply to some of the posts and give encouragement to others when appropriate. 
+  * It's against Twitter TOS to automatically like tweets :)
 
-**Thoughts:** 
+**Thoughts:**
 
-Working on a limited-scope project for my first day so I can hopefully "release it to Production" the same day: a Twitter bot that will search for tweets with the hashtag #100DaysOfCode and like a few of them. I want to use this project to re-learn how to set up a new Node.js/TypeScript project with basic features like tests (using Jest), debugging support in VSCODE, etc.
+Took me way more time than I wanted to spend on setting up a basic Node.js/TypeScript project. Still don't have debug support in Visual Studio Code working. Will work on that later. Compared with the .NET ecosystem, I can create a starter .NET console app with all basic tooling support and get up and running in less than 5 minutes.
 
-This bot will hopefully help encourage other developers on the #100DaysOfCode journey.
-
-I could not find anything starter project out there for Node.js/TypeScript with working VSCODE debug support. That seems like a useful starter project to have. Maybe I'll create one and share.
+I ended up spending way more than 1 hour on coding today. I guess I am feeling a little bit of peer pressure - the good kind :)
 
 **Link to work:**
 
-TODO
+[twitter-bot](https://github.com/chinhdo/twitter-bot)
+
+Generated recommendations: ![report](assets/day0-twitterbot-output.png)
