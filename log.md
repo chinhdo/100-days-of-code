@@ -19,8 +19,6 @@ I plan to eventually host the site on Azure at https://toolbox.chinhdo.com.
 
 [Programmer's Toolbox Github project](https://github.com/chinhdo/programmers-toolbox)
 
-You have found an easter egg! The first person to tweet/reply to me on Twitter and mention "easter egg" will be awarded a valuable prize (Amazon/Google Play Store gift card for $25).
-
 ![](assets/day2.png)
 
 ### Day 1: Sunday May 10, 2020
