@@ -1,6 +1,29 @@
 # 100 Days Of Code - [Chinh's Log](https://github.com/chinhdo)
 
-### Day 1: May 10, 2020
+### Day 2: Monday May 11, 2020
+
+**Today's Progress**
+
+Started work on Programmer's Toolbox, a web site with tools/utilities for programmers. The site is done in React - which is pretty much brand new to me. I started a course but did not process too far yet.
+
+* Generated skeleton React site with tooling with [`npx create-react-app`](https://reactjs.org/docs/create-a-new-react-app.html#create-react-app
+* Created components for app, header, footer.
+* Make some basic CSS adjustments
+* Added Bootstrap
+
+**Thoughts:**
+
+I plan to eventually host the site on Azure at https://toolbox.chinhdo.com.
+
+**Link to work:**
+
+[Programmer's Toolbox Github project](https://github.com/chinhdo/programmers-toolbox)
+
+You have found an easter egg! The first person to tweet/reply to me on Twitter and mention "easter egg" will be awarded a valuable prize (Amazon/Google Play Store gift card for $25).
+
+![](assets/day2.png)
+
+### Day 1: Sunday May 10, 2020
 
 **Today's Progress**
 
