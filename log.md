@@ -1,5 +1,27 @@
 # 100 Days Of Code - [Chinh's Log](https://github.com/chinhdo)
 
+### Day 3: Monday May 12, 2020
+
+**Today's Progress**
+
+* HTML/CSS for expandable sidebar with full height.
+* Bootstrap
+* React components
+* UUID generation
+* Additional clean-up of code to remove boilerplate stuff.
+* Deployed beta version on https://toolbox.chinhdo.com
+
+**Thoughts:**
+
+I've done web development for many years but I either had other "front-end/CSS" developer taking care of CSS things at work, or just googling for how to do various things with CSS and copy ready-made solutions. Today I tried to write CSS from scratch to create a collapsible sidebar and of course I could not do it quickly. Again I googled and after about 20 minutes found a solution that pretty much matched what I am looking for. Can I continue to get by without really knowing CSS? Maybe. But I also want to learn it properly so I fully understand the code.
+
+**Link to work:**
+
+[Programmer's Toolbox Github project](https://github.com/chinhdo/programmers-toolbox)
+
+![](assets/day3.png)
+
+
 ### Day 2: Monday May 11, 2020
 
 **Today's Progress**
