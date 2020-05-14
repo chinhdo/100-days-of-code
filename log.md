@@ -1,6 +1,23 @@
 # 100 Days Of Code - [Chinh's Log](https://github.com/chinhdo)
 
-### Day 3: Monday May 12, 2020
+## Day 4: Tuesday May 13, 2020
+
+**Today's Progress**
+
+* CSS tweaks
+* About app info in footer
+* List of UUIDs
+
+**Thoughts:**
+
+I spent around 2 hours on this today. Learning a few more important React concepts such as function binding, showing a list of items.
+
+**Link to work:**
+
+* [Programmer's Toolbox by Chinh Do](https://toolbox.chinhdo.com/)
+* [Programmer's Toolbox Github project](https://github.com/chinhdo/programmers-toolbox)
+
+## Day 3: Monday May 12, 2020
 
 **Today's Progress**
 
@@ -22,7 +39,7 @@ I've done web development for many years but I either had other "front-end/CSS" 
 ![](assets/day3.png)
 
 
-### Day 2: Monday May 11, 2020
+## Day 2: Monday May 11, 2020
 
 **Today's Progress**
 
@@ -43,7 +60,7 @@ I plan to eventually host the site on Azure at https://toolbox.chinhdo.com.
 
 ![](assets/day2.png)
 
-### Day 1: Sunday May 10, 2020
+## Day 1: Sunday May 10, 2020
 
 **Today's Progress**
 
