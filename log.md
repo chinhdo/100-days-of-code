@@ -1,6 +1,44 @@
 # 100 Days Of Code - [Chinh's Log](https://github.com/chinhdo)
 
-## Day 4: Tuesday May 13, 2020
+## Day 6: Thursday May 14, 2020
+
+**Today's Progress**
+
+Switching gear to get a refresher on some key CSS concepts. Read documentation about and wrote code to experiment with these properties: align-items, display, units.
+
+**Thoughts:**
+
+* Use rem instead of em
+* display: flex is the bomb
+
+**Link to work:**
+
+* [Programmer's Toolbox by Chinh Do](https://toolbox.chinhdo.com/)
+* [Programmer's Toolbox Github project](https://github.com/chinhdo/programmers-toolbox)
+
+---
+## Day 5: Thursday May 14, 2020
+
+**Today's Progress**
+
+* Moved CSS into appropriate component files
+* Fixed Bootstrap reference
+* Tweaked CSS
+* Added Short UUID
+* Added road map
+* Added Google Analytics
+ 
+**Thoughts:**
+
+I typically would start something, then get distracted with other hobbies or just being lazy browsing Netflix, etc. Participating in the #100DaysOfCode challenge and committing to spending time daily really has helped me keep a consistent schedule and make consistent progress.
+
+**Link to work:**
+
+* [Programmer's Toolbox by Chinh Do](https://toolbox.chinhdo.com/)
+* [Programmer's Toolbox Github project](https://github.com/chinhdo/programmers-toolbox)
+
+---
+## Day 4: Wednesday May 13, 2020
 
 **Today's Progress**
 
@@ -17,7 +55,8 @@ I spent around 2 hours on this today. Learning a few more important React concep
 * [Programmer's Toolbox by Chinh Do](https://toolbox.chinhdo.com/)
 * [Programmer's Toolbox Github project](https://github.com/chinhdo/programmers-toolbox)
 
-## Day 3: Monday May 12, 2020
+---
+## Day 3: Tuesday May 12, 2020
 
 **Today's Progress**
 
@@ -38,7 +77,7 @@ I've done web development for many years but I either had other "front-end/CSS" 
 
 ![](assets/day3.png)
 
-
+---
 ## Day 2: Monday May 11, 2020
 
 **Today's Progress**
@@ -60,6 +99,7 @@ I plan to eventually host the site on Azure at https://toolbox.chinhdo.com.
 
 ![](assets/day2.png)
 
+---
 ## Day 1: Sunday May 10, 2020
 
 **Today's Progress**
