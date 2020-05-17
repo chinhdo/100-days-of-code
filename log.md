@@ -12,6 +12,8 @@
 
 **Link to work:**
 
+![](assets/d7.gif)
+
 * [Programmer's Toolbox by Chinh Do](https://toolbox.chinhdo.com/)
 * [Programmer's Toolbox Github project](https://github.com/chinhdo/programmers-toolbox)
 
