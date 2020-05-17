@@ -1,6 +1,22 @@
 # 100 Days Of Code - [Chinh's Log](https://github.com/chinhdo)
 
-## Day 6: Thursday May 14, 2020
+## Day 7: Sat May 15, 2020
+
+**Today's Progress**
+
+* Added CSS for responsive menu.
+
+**Thoughts:**
+
+* I am really bad at CSS
+
+**Link to work:**
+
+* [Programmer's Toolbox by Chinh Do](https://toolbox.chinhdo.com/)
+* [Programmer's Toolbox Github project](https://github.com/chinhdo/programmers-toolbox)
+
+---
+## Day 6: Friday May 14, 2020
 
 **Today's Progress**
 
