@@ -1,5 +1,40 @@
 # 100 Days Of Code - [Chinh's Log](https://github.com/chinhdo)
 
+## Day 9: Mon May 17, 2020
+
+**Today's Progress**
+
+Went back and wrote code along with the Udemy course Complete React Developer in 2020 (w/ Redux, Hooks, GraphQL).
+
+**Thoughts:**
+
+I am learning at a consistent pace.
+
+**Link to work:**
+
+![](assets/day9.png)
+
+[Crown Clothing](https://github.com/chinhdo/crwn-clothing)
+
+---
+## Day 8: Sun May 16, 2020
+
+**Today's Progress**
+
+Added TypeScript support to my Programmers Toolbox app, before I write too much JavaScript code.
+
+**Thoughts:**
+
+Upgrading a Create-React-App project to add TypeScript wasn't as bad as I thought. Quick google searches solved most compile issues I ran into. Learned a few things about TypeScript/React in the process.
+
+**Link to work:**
+
+![](assets/day8.png)
+
+* [Programmer's Toolbox by Chinh Do](https://toolbox.chinhdo.com/)
+* [Programmer's Toolbox Github project](https://github.com/chinhdo/programmers-toolbox)
+
+---
 ## Day 7: Sat May 15, 2020
 
 **Today's Progress**
