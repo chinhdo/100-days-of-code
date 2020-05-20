@@ -1,5 +1,21 @@
 # 100 Days Of Code - [Chinh's Log](https://github.com/chinhdo)
 
+## Day 10: Tue May 18, 2020
+
+**Today's Progress**
+
+Added header, Login page, a reusable button, and styling to my learning #react Shopping Site app (following Udemy course "Complete React Developer in 2020").
+
+**Thoughts:**
+
+Wow I'm 10% through the challenge already!
+
+**Link to work:**
+
+[Crown Clothing](https://github.com/chinhdo/crwn-clothing)
+
+---
+
 ## Day 9: Mon May 17, 2020
 
 **Today's Progress**
