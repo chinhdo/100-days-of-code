@@ -1,5 +1,21 @@
 # 100 Days Of Code - [Chinh's Log](https://github.com/chinhdo)
 
+## Day 11: Wed May 19, 2020
+
+**Today's Progress**
+
+Played around with generative CSS art with random border-radius, width/height, opacity, etc.
+
+**Thoughts:**
+
+It's 1 AM now. I am sleepy.
+
+**Link to work:**
+
+[Magenta Dreams](https://codepen.io/chinhdo/pen/oNjmNRP)
+
+---
+
 ## Day 10: Tue May 18, 2020
 
 **Today's Progress**
