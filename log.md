@@ -1,5 +1,21 @@
 # 100 Days Of Code - [Chinh's Log](https://github.com/chinhdo)
 
+## Day 12: Thu May 20, 2020
+
+**Today's Progress**
+
+Added code to my #reactjs shopping site to connect to Google Firebase NoSql DB, oAuth login with Google. Firebase is very cool.
+
+**Thoughts:**
+
+I feel for the creators of coding courses. Things change so fast their courses are outdated the minute they come out.
+
+**Link to work:**
+
+[GitHub](https://github.com/chinhdo/crwn-clothing)
+
+---
+
 ## Day 11: Wed May 19, 2020
 
 **Today's Progress**
