@@ -1,5 +1,22 @@
 # 100 Days Of Code - [Chinh's Log](https://github.com/chinhdo)
 
+## Day 13: Fri May 21, 2020
+
+**Today's Progress**
+
+It's Friday the 13th day of #100DaysOfCode! 😨 Moved my Programmer's Toolbox #React app to Azure Static Web Apps, with a custom domain. Also blogged about it.
+
+**Thoughts:**
+
+Azure Static Web Apps looks to be a game changer. You are getting important features like SSL, dynamic scaling, global distribution, and GitHub deployment all in one easy-to-use package. Once configured, deploying your changes is as simple as pushing code to your GitHub repository.
+
+**Link to work:**
+
+[Blog post: Deploying Your Web Site to Azure Static Web Apps](https://www.chinhdo.com/20200523/deploying-your-web-site-to-azure-static-web-apps/)
+[Programmer's Toolbox on Azure Static Web Apps](https://programmers-toolbox.chinhdo.com)
+
+---
+
 ## Day 12: Thu May 20, 2020
 
 **Today's Progress**
