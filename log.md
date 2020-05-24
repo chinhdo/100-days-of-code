@@ -1,5 +1,21 @@
 # 100 Days Of Code - [Chinh's Log](https://github.com/chinhdo)
 
+## Day 14: Sat May 22, 2020
+
+**Today's Progress**
+
+Added react-router-dom to and routing to switch between pages. Tweaked CSS for sidebar/footer. Added Home Page and Encode page with working URL encode/decode.
+
+**Thoughts:**
+
+Need to file my taxes soon.
+
+**Link to work:**
+
+[Programmer's Toolbox on Azure Static Web Apps](https://programmers-toolbox.chinhdo.com)
+
+---
+
 ## Day 13: Fri May 21, 2020
 
 **Today's Progress**
