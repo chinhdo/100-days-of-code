@@ -1,5 +1,22 @@
 # 100 Days Of Code - [Chinh's Log](https://github.com/chinhdo)
 
+## Day 15: Sun May 23, 2020
+
+**Today's Progress**
+
+About 1/3rd done with adding support for indentation in the textarea input boxes with tab/shift-tab characters. It's harder than it looks.
+
+**Thoughts:**
+
+I am having fun.
+
+**Link to work:**
+
+[Programmer's Toolbox on Azure Static Web Apps](https://programmers-toolbox.chinhdo.com)
+
+---
+
+
 ## Day 14: Sat May 22, 2020
 
 **Today's Progress**
