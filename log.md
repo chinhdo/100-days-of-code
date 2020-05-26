@@ -1,5 +1,21 @@
 # 100 Days Of Code - [Chinh's Log](https://github.com/chinhdo)
 
+## Day 16: Mon May 24, 2020
+
+**Today's Progress**
+
+Working tab indent/unindent in textarea input boxes.
+
+**Thoughts:**
+
+Pressing tab/shift-tab to indent/unindent blocks of code is taken for granted in most code editors. Now that I had to implement it myself it's not quite straightfoward. I wrote about 50 lines of code to do it. Does seem like a lot of code but there are many permutations and edge cases to take care of.
+
+**Link to work:**
+
+[Programmer's Toolbox on Azure Static Web Apps](https://programmers-toolbox.chinhdo.com)
+
+---
+
 ## Day 15: Sun May 23, 2020
 
 **Today's Progress**
