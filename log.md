@@ -1,5 +1,21 @@
 # 100 Days Of Code - [Chinh's Log](https://github.com/chinhdo)
 
+## Day 17: Tue May 25, 2020
+
+**Today's Progress**
+
+Added HTML and Base64 encoding.
+
+**Thoughts:**
+
+Spent many minutes trying to figure out why my radio buttons weren't working. Turned out to work as a group they have to have the same name!
+
+**Link to work:**
+
+[Programmer's Toolbox on Azure Static Web Apps](https://programmers-toolbox.chinhdo.com)
+
+---
+
 ## Day 16: Mon May 24, 2020
 
 **Today's Progress**
