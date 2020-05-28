@@ -1,5 +1,21 @@
 # 100 Days Of Code - [Chinh's Log](https://github.com/chinhdo)
 
+## Day 18: Wed May 26, 2020
+
+**Today's Progress**
+
+Worked on adding Firebase authentication to my Programmers' Toolbox App. Some of it is working but I am also getting an error in the console... will need to look into that.
+
+**Thoughts:**
+
+It was pretty much painless to implement Firebase authentication following the Udemy course, but I had plenty of troubles doing it in my own app. One big difference is that my app uses TypeScript.
+
+**Link to work:**
+
+[Programmer's Toolbox on Azure Static Web Apps](https://programmers-toolbox.chinhdo.com)
+
+---
+
 ## Day 17: Tue May 25, 2020
 
 **Today's Progress**
