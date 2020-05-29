@@ -1,5 +1,21 @@
 # 100 Days Of Code - [Chinh's Log](https://github.com/chinhdo)
 
+## Day 19: Thu May 27, 2020
+
+**Today's Progress**
+
+Having some fun learning p5.js animation.
+
+**Thoughts:**
+
+Performance of p5.js is not as high as I'd hoped.
+
+**Link to work:**
+
+[Programmer's Toolbox on Azure Static Web Apps](https://programmers-toolbox.chinhdo.com)
+
+---
+
 ## Day 18: Wed May 26, 2020
 
 **Today's Progress**
