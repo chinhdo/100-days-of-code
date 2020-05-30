@@ -1,5 +1,21 @@
 # 100 Days Of Code - [Chinh's Log](https://github.com/chinhdo)
 
+## Day 20: Fri May 28, 2020
+
+**Today's Progress**
+
+Added server-side routes to my Programmers' Toolbox React app running on Azure Static Web Apps. The server-side routes are needed to handle hard-navigation requests directly to the routes - without them you would get 404s.
+
+**Thoughts:**
+
+It's Friday again... the weeks seem to be going by very fast.
+
+**Link to work:**
+
+[Programmer's Toolbox on Azure Static Web Apps](https://programmers-toolbox.chinhdo.com)
+
+---
+
 ## Day 19: Thu May 27, 2020
 
 **Today's Progress**
