@@ -1,5 +1,21 @@
 # 100 Days Of Code - [Chinh's Log](https://github.com/chinhdo)
 
+## Day 21: Sat May 29, 2020
+
+**Today's Progress**
+
+Added code to persist app data to local storage.
+
+**Thoughts:**
+
+It's hard to write code while things are not going so well my country (US).
+
+**Link to work:**
+
+[Programmer's Toolbox on Azure Static Web Apps](https://programmers-toolbox.chinhdo.com)
+
+---
+
 ## Day 20: Fri May 28, 2020
 
 **Today's Progress**
