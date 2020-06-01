@@ -1,5 +1,21 @@
 # 100 Days Of Code - [Chinh's Log](https://github.com/chinhdo)
 
+## Day 22: Sun May 31, 2020
+
+**Today's Progress**
+
+Refactored to move state persistence functionality into a base component. Added more help text to encoding page for SEO.
+
+**Thoughts:**
+
+Learned a little bit more about TypeScript inheritance.
+
+**Link to work:**
+
+[Programmer's Toolbox on Azure Static Web Apps](https://programmers-toolbox.chinhdo.com)
+
+---
+
 ## Day 21: Sat May 29, 2020
 
 **Today's Progress**
