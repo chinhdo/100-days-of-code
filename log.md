@@ -1,5 +1,21 @@
 # 100 Days Of Code - [Chinh's Log](https://github.com/chinhdo)
 
+## Day 23: Mon Jun 1, 2020
+
+**Today's Progress**
+
+Worked on creating a reusable #react code-edit component wrapping textarea. Maybe 50% done? Hard to know because I have no idea how to implement my own onChange yet.
+
+**Thoughts:**
+
+Maybe I should learn some more basic concepts before attempting the above.
+
+**Link to work:**
+
+[Programmer's Toolbox on Azure Static Web Apps](https://programmers-toolbox.chinhdo.com)
+
+---
+
 ## Day 22: Sun May 31, 2020
 
 **Today's Progress**
