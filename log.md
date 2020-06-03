@@ -1,5 +1,26 @@
 # 100 Days Of Code - [Chinh's Log](https://github.com/chinhdo)
 
+## Day 24: Tue Jun 2, 2020
+
+**Today's Progress**
+
+Minor enhancements to encode/decode page. Encode/decode automatically as characters are typed into the text boxes.
+
+Hash page with support for SHA256 hashes.
+
+Submitted an issue to [html-encoder-decoder github project](https://github.com/IonicaBizau/html-encoder-decoder/issues/15) for the encode function always using entity numbers instead of entity names.
+
+**Thoughts:**
+
+I've been learning a lot.
+
+**Link to work:**
+
+[Programmer's Toolbox on Azure Static Web Apps](https://programmers-toolbox.chinhdo.com)
+
+---
+
+
 ## Day 23: Mon Jun 1, 2020
 
 **Today's Progress**
