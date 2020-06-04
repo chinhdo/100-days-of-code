@@ -1,5 +1,21 @@
 # 100 Days Of Code - [Chinh's Log](https://github.com/chinhdo)
 
+## Day 25: Wed Jun 3, 2020
+
+**Today's Progress**
+
+Worked on my Programmers' Toolbox app. Added logo. CSS tweaks. MD5 hashing. 
+
+**Thoughts:**
+
+When will things be back to normal? Maybe not this year.
+
+**Link to work:**
+
+[Programmer's Toolbox on Azure Static Web Apps](https://programmers-toolbox.chinhdo.com)
+
+---
+
 ## Day 24: Tue Jun 2, 2020
 
 **Today's Progress**
@@ -19,7 +35,6 @@ I've been learning a lot.
 [Programmer's Toolbox on Azure Static Web Apps](https://programmers-toolbox.chinhdo.com)
 
 ---
-
 
 ## Day 23: Mon Jun 1, 2020
 
