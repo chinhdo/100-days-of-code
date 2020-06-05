@@ -1,5 +1,23 @@
 # 100 Days Of Code - [Chinh's Log](https://github.com/chinhdo)
 
+## Day 26: Thu Jun 4, 2020
+
+**Today's Progress**
+
+Worked on my Programmers' Toolbox. Added copy-to-clipboard. Would normally be a pretty simple thing to do in vanilla JS but with React it's a bit more involved.
+
+Add CSS to show a fade-out "copied" message next to the item clicked on. Took me an hour for that. Grr.
+
+**Thoughts:**
+
+It looks like the generals may be the last line of defense against our orange lunatic from going full dictator.
+
+**Link to work:**
+
+[Programmer's Toolbox on Azure Static Web Apps](https://programmers-toolbox.chinhdo.com)
+
+---
+
 ## Day 25: Wed Jun 3, 2020
 
 **Today's Progress**
