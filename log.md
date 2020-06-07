@@ -1,5 +1,25 @@
 # 100 Days Of Code - [Chinh's Log](https://github.com/chinhdo)
 
+## Day 27: Sat Jun 6, 2020
+
+**Today's Progress**
+
+Took a break day yesterday (per the [100 Days of Code rules](https://www.100daysofcode.com/faq/) you are allowed to miss one day then make it up by adding one more day to the end of the 100, but never miss two days in a row.)
+
+Today I spent a couple of hours working on a Node.js utility app to re-organize my photos folder into yyyy/mm/dd folder structure.
+
+**Thoughts:**
+
+Node.js fs library is a little limited. Used to be able to easily get file system items recursively. With Node.js fs you have to write the code yourself.
+
+Compared to Powershell: dir D:\OneDrive\ -Recurse
+
+**Link to work:**
+
+[reorg-file.ts](https://github.com/chinhdo/node-js-snippets/blob/master/src/reorg-files.ts)
+
+---
+
 ## Day 26: Thu Jun 4, 2020
 
 **Today's Progress**
