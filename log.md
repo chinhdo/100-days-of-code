@@ -1,13 +1,22 @@
 # 100 Days Of Code - [Chinh's Log](https://github.com/chinhdo)
 
+## Day 29: Mond Jun 8, 2020
+
+**Today's Progress**
+
+Learned some SVG and created an analog watch face.
+
+**Link to work:**
+
+[Programmer's Toolbox on Azure Static Web Apps](https://programmers-toolbox.chinhdo.com)
+
+---
+
 ## Day 28: Sun Jun 7, 2020
 
 **Today's Progress**
 
 Programmers' Toolbox: added Profile page, misc minor bug fixes on Encoding page. Enabled typeScript-eslint - that generated a ton more things I need to fix :)
-
-**Thoughts:**
-
 
 
 **Link to work:**
