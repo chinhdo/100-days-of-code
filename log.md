@@ -1,6 +1,31 @@
 # 100 Days Of Code - [Chinh's Log](https://github.com/chinhdo)
 
-## Day 29: Mond Jun 8, 2020
+## Day 31: Wed Jun 10, 2020
+
+**Today's Progress**
+
+Spent an hour on fixing various eslint warnings in my Programmers' Toolbox #react app. I understand why people say "sometimes TypeScript is not worth the troubles". It's certainly a lot of work. But I think in the long run it's worth it unless it's a throwaway app.
+
+**Link to work:**
+
+[Programmer's Toolbox on Azure Static Web Apps](https://programmers-toolbox.chinhdo.com)
+[GitHub](https://github.com/chinhdo/programmers-toolbox)
+
+---
+
+## Day 30: Tue Jun 9, 2020
+
+**Today's Progress**
+
+Fixed several bugs with my JS/SVG/CSS watch. Added switch for sweeping vs stuttering second hand. Used window.requestAnimationFrame for optimal animation/smoothness and reduced CPU.
+
+**Link to work:**
+
+[Analog watch face with JS/SVG/CSS](https://examples.chinhdo.com/analog-clock.html)
+
+---
+
+## Day 29: Mon Jun 8, 2020
 
 **Today's Progress**
 
