@@ -1,5 +1,31 @@
 # 100 Days Of Code - [Chinh's Log](https://github.com/chinhdo)
 
+## Day 33: Fri Jun 12, 2020
+
+**Today's Progress**
+
+Worked on #reactjs Programmers' Toolbox. Fixed most remaining TypeScript eslint warnings. Added Lorem Ipsum generator.
+
+**Link to work:**
+
+[Programmer's Toolbox on Azure Static Web Apps](https://programmers-toolbox.chinhdo.com)
+[GitHub](https://github.com/chinhdo/programmers-toolbox)
+
+---
+
+## Day 32: Thu Jun 11, 2020
+
+**Today's Progress**
+
+Created an animated logo for my Programmers' Toolbox #reactjs app. 
+
+**Link to work:**
+
+[Programmer's Toolbox on Azure Static Web Apps](https://programmers-toolbox.chinhdo.com)
+[GitHub](https://github.com/chinhdo/programmers-toolbox)
+
+---
+
 ## Day 31: Wed Jun 10, 2020
 
 **Today's Progress**
