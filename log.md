@@ -1,5 +1,17 @@
 # 100 Days Of Code - [Chinh's Log](https://github.com/chinhdo)
 
+## Day 34: Sat Jun 13, 2020
+
+**Today's Progress**
+
+Having some fun today with a custom ARMA 3 mission "Hunted".
+
+**Link to work:**
+
+[arma-hunted](https://github.com/chinhdo/arma-hunted)
+
+---
+
 ## Day 33: Fri Jun 12, 2020
 
 **Today's Progress**
