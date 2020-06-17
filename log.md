@@ -1,6 +1,6 @@
 # 100 Days Of Code - [Chinh's Log](https://github.com/chinhdo)
 
-## Day 36: Mon Jun 15, 2020
+## Day 37: Mon Jun 15, 2020
 
 **Today's Progress**
 
