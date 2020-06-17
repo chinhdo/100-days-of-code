@@ -1,5 +1,21 @@
 # 100 Days Of Code - [Chinh's Log](https://github.com/chinhdo)
 
+## Day 34: Sat Jun 13, 2020
+
+**Today's Progress**
+
+* Fixed false eslint warnings with React imports
+* Fixed various additional eslint warnings
+* Added prettier
+* Add pre-commit hooks to prevent committing code with eslint errors
+
+**Link to work:**
+
+[Programmer's Toolbox on Azure Static Web Apps](https://programmers-toolbox.chinhdo.com)
+[GitHub](https://github.com/chinhdo/programmers-toolbox)
+
+---
+
 ## Day 33: Fri Jun 12, 2020
 
 **Today's Progress**
