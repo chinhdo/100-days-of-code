@@ -4,6 +4,21 @@
 
 **Today's Progress**
 
+Worked on the Color Mixer for my #reactjs Programmers' Toolbox.
+
+This turned out to be not so easy Winking face with tongue. Got code to convert HSL to RGB. Switched hue picker from div to canvas so I can "see" color value where mouse clicks.
+
+**Link to work:**
+
+[Programmer's Toolbox on Azure Static Web Apps](https://programmers-toolbox.chinhdo.com)
+[GitHub](https://github.com/chinhdo/programmers-toolbox)
+
+---
+
+## Day 36: Mon Jun 15, 2020
+
+**Today's Progress**
+
 Something different today: Max4Live visual programming. Created a "live sync" patch with buttons to skip to next,  current, prev 4 beats, etc.
 
 For when I need to re-sync backing track to our live playing - with buttons mapped to MIDI controllersMusical keyboard.
