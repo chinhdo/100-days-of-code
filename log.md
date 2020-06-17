@@ -1,18 +1,44 @@
 # 100 Days Of Code - [Chinh's Log](https://github.com/chinhdo)
 
-## Day 34: Sat Jun 13, 2020
+## Day 36: Mon Jun 15, 2020
 
 **Today's Progress**
 
-* Fixed false eslint warnings with React imports
-* Fixed various additional eslint warnings
-* Added prettier
-* Add pre-commit hooks to prevent committing code with eslint errors
+Something different today: Max4Live visual programming. Created a "live sync" patch with buttons to skip to next,  current, prev 4 beats, etc.
+
+For when I need to re-sync backing track to our live playing - with buttons mapped to MIDI controllersMusical keyboard.
+
+**Link to work:**
+
+Will need to figure out how to check Max4Live patches into GitHub.
+
+---
+
+## Day 35: Sun Jun 14, 2020
+
+**Today's Progress**
+
+Started work on a color mixer and learn some more CSS & refreshed myself on RGB / HSV color models.
+
+"user-select: none" fixed an intermittent issue with clicking/dragging on the Hue picker.
 
 **Link to work:**
 
 [Programmer's Toolbox on Azure Static Web Apps](https://programmers-toolbox.chinhdo.com)
 [GitHub](https://github.com/chinhdo/programmers-toolbox)
+
+---
+
+
+## Day 34: Sat Jun 13, 2020
+
+**Today's Progress**
+
+Having some fun today with a custom ARMA 3 mission "Hunted".
+
+**Link to work:**
+
+[arma-hunted](https://github.com/chinhdo/arma-hunted)
 
 ---
 
