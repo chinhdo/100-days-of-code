@@ -1,6 +1,34 @@
 # 100 Days Of Code - [Chinh's Log](https://github.com/chinhdo)
 
-## Day 37: Mon Jun 15, 2020
+## Day 39: Jun 19, 2020
+
+**Today's Progress**
+
+Worked on #dotnet Transactional File Manager library. Removed old branches. Misc refactors for better readability. Closed out a few issues.
+
+**Link to work:**
+
+[TxFileManager](https://github.com/chinhdo/txFileManager)
+
+---
+
+## Day 38: Jun 15, 2020
+
+**Today's Progress**
+
+The first language I fell in love with was c# Red heart
+
+Did some work on TxFileManager #dotnet c# library. Processed an incoming PR. Added 
+@github
+ build triggers for pushes on any branches and PRs. Fixed bug with FileMove operation.
+
+**Link to work:**
+
+[TxFileManager](https://github.com/chinhdo/txFileManager)
+
+---
+
+## Day 37: Jun 17, 2020
 
 **Today's Progress**
 
@@ -15,7 +43,7 @@ This turned out to be not so easy Winking face with tongue. Got code to convert 
 
 ---
 
-## Day 36: Mon Jun 15, 2020
+## Day 36: Jun 15, 2020
 
 **Today's Progress**
 
@@ -29,7 +57,7 @@ Will need to figure out how to check Max4Live patches into GitHub.
 
 ---
 
-## Day 35: Sun Jun 14, 2020
+## Day 35: Jun 14, 2020
 
 **Today's Progress**
 
@@ -45,7 +73,7 @@ Started work on a color mixer and learn some more CSS & refreshed myself on RGB 
 ---
 
 
-## Day 34: Sat Jun 13, 2020
+## Day 34: Jun 13, 2020
 
 **Today's Progress**
 
