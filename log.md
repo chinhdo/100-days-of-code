@@ -1,5 +1,17 @@
 # 100 Days Of Code - [Chinh's Log](https://github.com/chinhdo)
 
+## Day 40: Jun 20, 2020
+
+**Today's Progress**
+
+Worked on a script to pull internet bandwidth usage data from my Netgear R7000 router running Advanced Tomato firmware to feed to #Splunk. Got most of it working. Still need to download the data to my home server/Splunk.
+
+**Link to work:**
+
+[GitHub](https://github.com/chinhdo/shell-scripts/blob/master/sh/bandwidth.sh)
+
+---
+
 ## Day 39: Jun 19, 2020
 
 **Today's Progress**
