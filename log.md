@@ -1,5 +1,16 @@
 # 100 Days Of Code - [Chinh's Log](https://github.com/chinhdo)
 
+## Day 41: Jun 21, 2020
+
+**Today's Progress**
+
+Wrote a unix shell script to send bandwidth usage data from my Internet router running Tomato firmware to 
+@Splunk HTTP Event Collector.
+
+**Link to work:**
+
+[Blog](https://t.co/Jir9Tu97NN?amp=1)
+
 ## Day 40: Jun 20, 2020
 
 **Today's Progress**
