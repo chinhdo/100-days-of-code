@@ -1,5 +1,29 @@
 # 100 Days Of Code - [Chinh's Log](https://github.com/chinhdo)
 
+## Day 44: Jun 25, 2020
+
+**Today's Progress**
+
+Break day yesterday.
+
+(I see that I accidentally skipped from Day 41 to 44 earlier... so I'm going back from 45 to 42 to adjust)
+
+Worked on #dotnet Transactional File Manager library. About 1/3rd done with adding code to support copying directories.
+
+**Link to work:**
+
+[TxFileManager](https://github.com/chinhdo/txFileManager)
+
+## Day 43: Jun 23, 2020
+
+**Today's Progress**
+
+Installed and configured Strapi (@strapijs) CMS on my Azure Ubuntu VM and played around with admin UI.
+
+**Link to work:**
+
+[Strapi](http://chinhdo2.eastus2.cloudapp.azure.com:1337)
+
 ## Day 42: Jun 22, 2020
 
 **Today's Progress**
