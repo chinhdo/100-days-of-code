@@ -1,5 +1,17 @@
 # 100 Days Of Code - [Chinh's Log](https://github.com/chinhdo)
 
+## Day 42: Jun 22, 2020
+
+**Today's Progress**
+
+Playing around some more with Twitter API to build a graph of my tweets over time. According to this I started to tweet regularly around Mar 7 this year Grinning face
+
+Tweets are written to a log file & fed to @Splunk, then a quick query to build this time chart
+
+**Link to work:**
+
+[Twitter-Bot](https://github.com/chinhdo/twitter-bot)
+
 ## Day 41: Jun 21, 2020
 
 **Today's Progress**
