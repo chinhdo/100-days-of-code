@@ -1,5 +1,25 @@
 # 100 Days Of Code - [Chinh's Log](https://github.com/chinhdo)
 
+## Day 46: Jun 27, 2020
+
+**Today's Progress**
+
+Worked some more on my #ARMA 3 custom mission. It's  fun to test this code but very time consuming.
+
+**Link to work:**
+
+[GitHub](https://github.com/chinhdo/arma-hunted/commit/74646232c8b82e4715ec18da702ab7f33bfc5fa6)
+
+## Day 45: Jun 26, 2020
+
+**Today's Progress**
+
+Wrote Autohotkey script to switch windows and control volumn using my MIDI controller.
+
+**Link to work:**
+
+Will share later.
+
 ## Day 44: Jun 25, 2020
 
 **Today's Progress**
