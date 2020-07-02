@@ -1,5 +1,27 @@
 # 100 Days Of Code - [Chinh's Log](https://github.com/chinhdo)
 
+## Day 48: Jul 1, 2020
+
+**Today's Progress**
+
+Took a break day yesterday - yes you are allowed to take a day off here and there, but only 1 day max at a time per the #100DaysOfCode rules Grinning face. 
+
+Added support for copying directory to #dotnet Transactional File Manager library.
+
+**Link to work:**
+
+[Github](https://github.com/chinhdo/txFileManager/commit/84d58b361dc2f53ab395cb1271790ed762f046fb)
+
+## Day 47: Jun 29, 2020
+
+**Today's Progress**
+
+I lost the code for the Processing animation I shared last night so I re-wrote it. Since I can't remember the exact parameters, it's not coming out quite the same. But I think it's still cool Grinning face
+
+**Link to work:**
+
+[Tweet](https://twitter.com/chinhdo/status/1277822002393427972)
+
 ## Day 46: Jun 27, 2020
 
 **Today's Progress**
