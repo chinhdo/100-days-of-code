@@ -1,5 +1,16 @@
 # 100 Days Of Code - [Chinh's Log](https://github.com/chinhdo)
 
+
+## Day 49: Jul 2, 2020
+
+**Today's Progress**
+
+Created a React Native Hello World app using Expo CLI & played around with SafeAreaView/ScrollView/Button, and styling.
+
+**Link to work:**
+
+[Github](https://github.com/chinhdo/react-native-hello)
+
 ## Day 48: Jul 1, 2020
 
 **Today's Progress**
