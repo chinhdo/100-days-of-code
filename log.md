@@ -1,5 +1,16 @@
 # 100 Days Of Code - [Chinh's Log](https://github.com/chinhdo)
 
+## Day 50: Jul4, 2020
+
+**Today's Progress**
+
+Spent an hour on solving a few ProjectEuler.net problems. They are pretty fun.
+
+https://examples.chinhdo.com/project-euler.html
+
+**Link to work:**
+
+[Github](https://github.com/chinhdo/examples/blob/master/project-euler.html)
 
 ## Day 49: Jul 2, 2020
 
