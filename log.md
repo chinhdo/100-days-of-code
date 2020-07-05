@@ -4,6 +4,8 @@
 
 **Today's Progress**
 
+I am 50% through the 100 Days of Code Challenge!
+
 Spent an hour on solving a few ProjectEuler.net problems. They are pretty fun.
 
 https://examples.chinhdo.com/project-euler.html
