@@ -1,6 +1,58 @@
 # 100 Days Of Code - [Chinh's Log](https://github.com/chinhdo)
 
-## Day 50: Jul4, 2020
+## Day 52: Jul 7, 2020
+
+**Today's Progress**
+
+Solved some more Project Euler's problems (problems 5-8). Favorite problem was the "10001st prime" problem. I think the code I came up with is close to the "Sieve of Eratosthenes" algorithm.
+
+**Link to work:**
+
+[GitHub](https://github.com/chinhdo/project-euler/blob/master/src/App.tsx)
+
+## Day 51: Jul 6, 2020
+
+**Today's Progress**
+
+Break day yesterday.
+
+[Installed](https://strapi.io/documentation/v3.x/deployment/azure.html) Strapi CMS with MongoDB on Azure. Configured Strapi auto-start with PM2.
+
+Enabled GraphQL plugin. Testedf [GraphQL Playground](http://chinhdo2.eastus2.cloudapp.azure.com:1337/graphql).
+
+Query to retrieve UI Component matching ComponentId:
+```
+query {
+  uiComponents(
+    limit:10
+    where: { componentId: "test1" }
+  ) {
+    id componentId contentJson
+  }
+}
+```
+
+Retrieve multiple items:
+```
+query {
+  uiComponents(
+    limit:10
+    where: { componentId_in: ["test1", "test2"] }
+  ) {
+    id componentId contentJson
+  }
+}
+```
+
+Tested [Auth API requests](https://strapi.io/documentation/3.0.0-beta.x/guides/auth-request.html#setup).
+
+**Link to work:**
+
+See notes above.
+
+---
+
+## Day 50: Jul 4, 2020
 
 **Today's Progress**
 
@@ -14,6 +66,7 @@ https://examples.chinhdo.com/project-euler.html
 
 [Github](https://github.com/chinhdo/examples/blob/master/project-euler.html)
 
+---
 ## Day 49: Jul 2, 2020
 
 **Today's Progress**
@@ -24,6 +77,7 @@ Created a React Native Hello World app using Expo CLI & played around with SafeA
 
 [Github](https://github.com/chinhdo/react-native-hello)
 
+---
 ## Day 48: Jul 1, 2020
 
 **Today's Progress**
@@ -36,6 +90,7 @@ Added support for copying directory to #dotnet Transactional File Manager librar
 
 [Github](https://github.com/chinhdo/txFileManager/commit/84d58b361dc2f53ab395cb1271790ed762f046fb)
 
+---
 ## Day 47: Jun 29, 2020
 
 **Today's Progress**
@@ -46,6 +101,7 @@ I lost the code for the Processing animation I shared last night so I re-wrote i
 
 [Tweet](https://twitter.com/chinhdo/status/1277822002393427972)
 
+---
 ## Day 46: Jun 27, 2020
 
 **Today's Progress**
@@ -56,6 +112,7 @@ Worked some more on my #ARMA 3 custom mission. It's  fun to test this code but v
 
 [GitHub](https://github.com/chinhdo/arma-hunted/commit/74646232c8b82e4715ec18da702ab7f33bfc5fa6)
 
+---
 ## Day 45: Jun 26, 2020
 
 **Today's Progress**
