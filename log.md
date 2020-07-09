@@ -1,5 +1,19 @@
 # 100 Days Of Code - [Chinh's Log](https://github.com/chinhdo)
 
+## Day 53: Jul 8, 2020
+
+**Today's Progress**
+
+☑️Project Euler Problems 9  (Special Pythagorean triplet) & 10 (Summation of primes) - All this enhanced knowledge of prime numbers is going to be so handy at my job... not 😋
+☑️Custom Strapi CMS controller
+☑️Lifecycle hooks to log/audit Strapi changes
+
+**Link to work:**
+
+* [ProjectEuler](https://github.com/chinhdo/project-euler)
+* [Strapi POC](https://github.com/chinhdo/strapi-cms-poc)
+
+
 ## Day 52: Jul 7, 2020
 
 **Today's Progress**
