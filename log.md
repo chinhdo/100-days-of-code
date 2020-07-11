@@ -1,5 +1,104 @@
 # 100 Days Of Code - [Chinh's Log](https://github.com/chinhdo)
 
+## Day 55: Jul 10, 2020
+
+**Today's Progress**
+
+After a few tries I got the solution for #LeetCode "Add Two Numbers" working with TypeScript.
+
+**Link to work:**
+
+``` typescript
+/**
+ * Definition for singly-linked list.
+ * class ListNode {
+ *     val: number
+ *     next: ListNode | null
+ *     constructor(val?: number, next?: ListNode | null) {
+ *         this.val = (val===undefined ? 0 : val)
+ *         this.next = (next===undefined ? null : next)
+ *     }
+ * }
+ */
+
+function addTwoNumbers(l1: ListNode | null, l2: ListNode | null): ListNode | null {
+  const ret = new ListNode();
+
+  let n1 = l1;
+  let n2 = l2;
+  let n3 = ret;
+
+  let carry = 0;
+  do {
+    n3.val = carry;
+    carry = 0;
+
+    if (n1) {
+      n3.val += n1?.val;
+      n1 = n1.next;
+    }
+
+    if (n2) {
+      n3.val += n2.val;
+      n2 = n2.next;
+    }
+
+    // carry
+    if (n3.val >= 10) {
+      n3.val = n3.val - 10;
+      carry = 1;
+    }
+
+    if (!n1 && !n2) {
+      break;
+    }
+
+    n3.next = new ListNode();
+    n3 = n3.next;
+  } while (true);
+
+  if (carry > 0) {
+    n3.next = new ListNode(carry);
+  }
+  console.log(JSON.stringify(ret));
+  return ret;
+};
+```
+
+## Day 54: Jul 9, 2020
+
+**Today's Progress**
+
+Worked on a couple of LeetCode problems & learned LeetCode UI:
+* Two sum
+* Add two numbers (almost working)
+
+I like LeetCode a lot better than Project Euler. Problems seem to be more practical vs very math oriented.
+
+**Link to work:**
+
+``` typescript
+function twoSum(nums: number[], target: number): number[] {
+  const map: Map<number, number> = new Map<number, number>();
+  for (let i=0; i<nums.length; i++) {
+    map.set(nums[i], i);
+  }
+
+  console.log(map);
+
+  for (let i=0; i<nums.length; i++) {
+    const x = target - nums[i];
+    
+    if (map.has(x) && map.get(x) !== i) {
+      console.log('X', map.get(x));
+      return [i, map.get(x) || 0];
+    }
+  }
+  
+  return [0, 0];
+};
+```
+
 ## Day 53: Jul 8, 2020
 
 **Today's Progress**
