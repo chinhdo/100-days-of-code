@@ -1,5 +1,69 @@
 # 100 Days Of Code - [Chinh's Log](https://github.com/chinhdo)
 
+## Day 57: Jul 14, 2020
+
+**Today's Progress**
+
+☑️Solved the #LeetCode "Longest Substring Without Repeating Characters" problem.
+☑️Wrote some experimental code to test out Monaco editor https://microsoft.github.io/monaco-editor/ - I plan to use that code editor for my Programmers' Toolbox site
+
+**Link to work:**
+
+``` js
+function lengthOfLongestSubstring(s: string): number {
+ let longest = "";
+  let curr = "";
+  for (let i = 0; i < s.length; i++) {
+    const ch = s[i];
+    const p = curr.indexOf(ch);
+
+    if (p < 0) {
+      curr += ch;
+      if (curr.length > longest.length) {
+        longest = curr;
+      }  
+    }
+    else {
+      curr = curr.substr(p + 1) + ch;
+    }
+
+  }
+
+  return longest.length;
+};
+```
+
+## Day 56: Jul 12, 2020
+
+**Today's Progress**
+
+Break day yesterday. Spent an hour today on #LeetCode "Longest Substring Without Repeating Characters" without success - code still fails for some edge cases. Will continue tomorrow 😀
+
+**Link to work:**
+
+``` js
+function lengthOfLongestSubstring(s: string): number {
+  let longest = "";
+  let curr = "";
+  for (let i = 0; i < s.length; i++) {
+    const p = curr.indexOf(s[i]);
+    if (p < 0) {
+      curr += s[i];
+      if (curr.length > longest.length) {
+        longest = curr;
+      }  
+    }
+    else {
+      console.log("[" + curr + "]");
+      curr = curr.substr(p);
+    }
+  }
+
+  console.log("Longest: [" + longest + "]");
+  return longest.length;
+};
+```
+
 ## Day 55: Jul 10, 2020
 
 **Today's Progress**
