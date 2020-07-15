@@ -4,7 +4,7 @@
 
 **Today's Progress**
 
-☑️Solved the #LeetCode "Longest Substring Without Repeating Characters" problem.
+☑️Solved the #LeetCode "Longest Substring Without Repeating Characters" problem using the "sliding window" approach.
 ☑️Wrote some experimental code to test out Monaco editor https://microsoft.github.io/monaco-editor/ - I plan to use that code editor for my Programmers' Toolbox site
 
 **Link to work:**
