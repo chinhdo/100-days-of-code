@@ -1,5 +1,72 @@
 # 100 Days Of Code - [Chinh's Log](https://github.com/chinhdo)
 
+## Day 59: Jul 17, 2020
+
+**Today's Progress**
+
+Starting over today with a fresh mind & with only one 🍺. I got one solution accepted for #LeetCode "Median of Two Sorted Arrays". Started working on a more optimized O(log(m+n)) solution. Should be able to get that one tomorrow.
+
+**Link to work:**
+
+``` js
+function findMedianSortedArrays(nums1: number[], nums2: number[]): number {
+  let a = 0; // index into nums1
+  let b = 0; // index into nums2
+  let count = 0;
+  const totalNumbers = nums1.length + nums2.length;
+
+  const temp = [];
+  
+  while (count <= (totalNumbers) / 2) {
+    let nextNum = 0;
+    // Get next number
+    if (a >= nums1.length) {
+      nextNum = nums2[b];
+      b++;
+    } else if (b >= nums2.length) {
+      nextNum = nums1[a];
+      a++;
+    } else {
+      if (nums1[a] < nums2[b]) {
+        nextNum = nums1[a];
+        a++;
+      }
+      else {
+        nextNum = nums2[b];
+        b++;
+      }
+    }
+
+    temp.push(nextNum);
+
+    count ++;
+  }
+
+  let median = -1;
+  if (totalNumbers % 2 === 0) {
+    // Even numbers - average of two middle
+    median = (temp[temp.length - 2] + temp[temp.length - 1]) / 2;
+  }
+  else {
+    median = temp[temp.length -1];
+  }
+
+  return median;
+};
+```
+
+## Day 58: Jul 16, 2020
+
+**Today's Progress**
+
+I tried to quickly solve #LeetCode hard problem "Median of Two Sorted Arrays" after a cocktail and 2 beers. Of course I am nowhere near the answer after an hour Face savouring food
+
+Well at least the code compiles! I'll have to try again tomorrow without the alcohol.
+
+**Link to work:**
+
+![](assets/day58.png)
+
 ## Day 57: Jul 14, 2020
 
 **Today's Progress**
