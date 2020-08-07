@@ -1,5 +1,11 @@
 # 100 Days Of Code - [Chinh's Log](https://github.com/chinhdo)
 
+## Day 60
+
+Unfortunately I failed the challenge this go-round. I took a break day, then on the day after that I had an emergency and could not spend time on coding. That meant I skipped two days in a row - specifically not allowed in the challenge.
+
+This was fun and I learned a lot. Will try again soon.
+
 ## Day 59: Jul 17, 2020
 
 **Today's Progress**
