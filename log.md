@@ -16,11 +16,9 @@ API token "test2" created: 00TRg_wt... for full token see K.
 
 ## July 20, 2020
 
-I have failed the #100DaysOfCode challenge because I skipped two days in a row.
+Unfortunately I failed the challenge this go-round. I took a break day, then on the day after that a friend of mine had an personal crisis (as in their partner of many years left them) and I had to be there for them. That meant I skipped two days in a row - specifically not allowed in the challenge.
 
-It wasn't on purpose. Sat was a break day & I planned to code yesterday, but a friend was going through a crisis (as in partner of many years left them for another person) and we needed to be there for them.
-
-I may try again later. This has been a very interesting and learning journey.
+This was fun and I learned a lot. Will try again soon.
 
 ## Day 59: Jul 17, 2020
 
