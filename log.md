@@ -1,19 +1,5 @@
 # 100 Days Of Code - [Chinh's Log](https://github.com/chinhdo)
 
-## 2020-10-02
-
-I decided to use continue using this journal to document my coding learning activities.
-
-### Create working oAuth2 API using okta
-
-Create a developer account at okta. Follow this [guide](https://developer.okta.com/docs/guides/implement-oauth-for-okta/request-access-token/).
-
-Request access token by making a request to /authorize. If user is not logged in, this will ask user to log in then redirect to the redirect_uri
-
-https://dev-850405.okta.com/oauth2/v1/authorize?client_id=0oa608lhDSOlCV7L15d5&response_type=token&response_mode=fragment&scope=okta.users.read&nonce=UBGW&state=1234&redirect_uri=http://localhost:8080/implicit/callback
-
-API token "test2" created: 00TRg_wt... for full token see K.
-
 ## July 20, 2020
 
 Unfortunately I failed the challenge this go-round. I took a break day, then on the day after that a friend of mine had an personal crisis (as in their partner of many years left them) and I had to be there for them. That meant I skipped two days in a row - specifically not allowed in the challenge.
